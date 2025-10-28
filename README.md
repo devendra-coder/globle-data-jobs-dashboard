@@ -56,7 +56,7 @@ It’s designed to help job seekers, recruiters, and analysts understand which r
 
 ## 🖼️ Dashboard Drilldown  
 
-![Dashboard Drilldown](images/dashboard_drilldown.png)  
+![Dashboard Drilldown](project-screenshots/drill-through-tab.png)  
 *Interactive filters for role, country, and salary distribution.*
 
 ---
